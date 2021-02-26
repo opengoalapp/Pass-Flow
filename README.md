@@ -8,7 +8,7 @@ It is recommended to run this notebook in Google Colab to start with as all requ
 
 Known issues:
 - StatsBomb data format only
-- Trial and error required to adjust the field grid dimensions - code can hang when changing the default values to some other values, but will be fine fine with others. 
+- Trial and error required to adjust the field grid dimensions - code can hang when changing the default values to some other values, but will be fine with others. 
 
 
 ![](reversed_pass_flow.gif)
